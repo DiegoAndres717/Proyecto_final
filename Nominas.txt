@@ -1,2 +1,0 @@
-Nombre 		Tipo		Cargo	HT	Salario	HE TPHE	  Salud	 Pensión ARL	Total a Pagar
-juna jose migeul salas	ADMINISTRATIVO	auxiliar	20	400000	30	20000	40000.0	40000.0	5220.0		914780.0
